@@ -1,0 +1,28 @@
+{
+    "type": "FeatureCollection",
+    "features": [ {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [120.081980220562 ,36.76170551204547]
+        },
+        "properties": {
+            "name": "PM2.5=201μg/m³  重度污染",
+            "price": 69000,
+            "count": 0
+        }
+    },    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [120.08037906034417 ,36.761869965712826]
+        },
+        "properties": {
+            "name": "NO2=179μg/m³  重度污染  ",
+            "price": 69000,
+            "count": 0
+        }
+    }
+    
+    
+    ]}

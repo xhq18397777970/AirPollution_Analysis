@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [114.609777832032,30.44813639323]
+            },
+            "properties": {
+                "count": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [114.609718695747,30.447860785591]
+            },
+            "properties": {
+                "count": 80
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [114.606450195313,30.445286187066]
+            },
+            "properties": {
+                "count": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [114.606177842882,30.445214029948]
+            },
+            "properties": {
+                "count": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [114.605907389323,30.445134006077]
+            },
+            "properties": {
+                "count": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [114.60563015408,30.445081651476]
+            },
+            "properties": {
+                "count": 50
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [114.604808756511,30.445208875869]
+            },
+            "properties": {
+                "count": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [114.604549424914,30.445319824219]
+            },
+            "properties": {
+                "count": 100
+            }
+        }
+        
+        
+    ]
+}

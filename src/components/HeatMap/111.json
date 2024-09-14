@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [114.605715060764 ,30.44782280816 ]
+        },
+        "properties": {
+            "name": "PM2.5=98μg/m³  轻度污染",
+            "price": 1000,
+            "count": 92
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [114.607471516928 ,30.452418077257 ]
+        },
+        "properties": {
+            "name": "PM2.5=156μg/m³  重度污染",
+            "price": 69000,
+            "count": 52
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [114.607353786893,30.450885687935  ]
+        },
+        "properties": {
+            "name": "PM2.5=150μg/m³  重度污染",
+            "price": 69000,
+            "count": 52
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [114.607160373264,30.451432291667  ]
+        },
+        "properties": {
+            "name": "PM2.5=84μg/m³  轻度污染",
+            "price": 500,
+            "count": 52
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [114.606490885417,30.451538085938 ]
+        },
+        "properties": {
+            "name": "PM2.5=75μg/m³  轻度污染",
+            "price": 500,
+            "count": 52
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [114.605133192275,30.449163682726]
+        },
+        "properties": {
+            "name": "PM2.5=99μg/m³  轻度污染",
+            "price": 500,
+            "count": 52
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [114.606108398438,30.450144042969]
+        },
+        "properties": {
+            "name": "PM2.5=132μg/m³  重度污染",
+            "price": 69000,
+            "count": 52
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [114.607148980035,30.44991373698]
+        },
+        "properties": {
+            "name": "PM2.5=160μg/m³  重度污染",
+            "price": 69000,
+            "count": 52
+        }
+    }
+    
+    
+    ]}

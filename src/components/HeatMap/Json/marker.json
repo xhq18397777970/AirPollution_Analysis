@@ -1,0 +1,18 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "在建工地",
+                "address": "中关村东路1号院5号楼"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.60414318700128, 30.451166989200384
+                ]
+            }
+        }
+]}
+        
